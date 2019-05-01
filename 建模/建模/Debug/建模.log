@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\lyl(学习文档)\操作系统\建模\建模\源.cpp(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\lyl(学习文档)\操作系统\建模\建模\源.cpp(206): warning C4101: “tic_num”: 未引用的局部变量
+d:\lyl(学习文档)\操作系统\建模\建模\源.cpp(206): warning C4101: “end”: 未引用的局部变量
+d:\lyl(学习文档)\操作系统\建模\建模\源.cpp(206): warning C4101: “start”: 未引用的局部变量
+  建模.vcxproj -> D:\lyl(学习文档)\操作系统\建模\Debug\建模.exe
